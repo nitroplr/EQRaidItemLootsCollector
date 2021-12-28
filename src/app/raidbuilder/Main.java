@@ -37,6 +37,7 @@ public class Main {
         ArrayList<String> logString = new ArrayList<>();
         ArrayList<String> itemLoots = new ArrayList<>();
         ArrayList<String> itemLootsWithLooter = new ArrayList<>();
+        ArrayList<String> itemLootsLinkedToeqChannel = new ArrayList<>();
         try {
             Scanner scanner = new Scanner(logFile);
             while (scanner.hasNext()) {
@@ -50,7 +51,7 @@ public class Main {
         int indexOfLastNewRaidCommand = 0;
         for (int i = 0; i < logString.size(); i++) {
             //a new raid command has been found
-            if (logString.get(i).contains(eqChannel) && logString.get(i).contains(newRaidCommand)) {
+            if (logString.get(i).contains(eqChannel + ':') && logString.get(i).contains(newRaidCommand)) {
                 indexOfLastNewRaidCommand = i;
             }
         }
@@ -69,6 +70,35 @@ public class Main {
                     itemLootsWithLooter.add(item + " - " + looter);
                 }
             }
+            //this is a non new raid command sent to the channel
+            else if (logString.get(i).contains(eqChannel + ':') && !logString.get(i).contains(newRaidCommand)) {
+                ArrayList<Integer> indices = new ArrayList<>();
+                //get index of first '
+                int indexOfApostrophe = logString.get(i).indexOf("'");
+                //get indices of separators
+                for (int j = 0; j < logString.get(i).length(); j++) {
+                    if (logString.get(i).charAt(j) == '|') {
+                        indices.add(j);
+                    }
+                }
+                //add an extra index at the end to catch last item
+                if (logString.get(i).length() > 0) {
+                    indices.add(logString.get(i).length());
+                }
+                //get the items
+                int previousIndex = indexOfApostrophe;
+                for (Integer index : indices) {
+                    char c = "'".toCharArray()[0];
+                    String stringToAdd = logString.get(i).substring(previousIndex + 1, index).trim();
+                    if (stringToAdd.charAt(0) == c) {
+                        stringToAdd = stringToAdd.substring(1);
+                    } else if (stringToAdd.charAt(stringToAdd.length() - 1) == c) {
+                        stringToAdd = stringToAdd.substring(0, stringToAdd.length() - 1);
+                    }
+                    itemLootsLinkedToeqChannel.add(stringToAdd);
+                    previousIndex = index;
+                }
+            }
         }
 
         //output the loots to an output file
@@ -79,9 +109,16 @@ public class Main {
             StringBuilder outstring = new StringBuilder();
             itemLoots.sort(String.CASE_INSENSITIVE_ORDER);
             itemLootsWithLooter.sort(String.CASE_INSENSITIVE_ORDER);
+            itemLootsLinkedToeqChannel.sort(String.CASE_INSENSITIVE_ORDER);
+            outstring.append("Items Linked to eqChannel----------------------------------").append(System.lineSeparator());
+            for (String itemLoot : itemLootsLinkedToeqChannel) {
+                outstring.append(itemLoot).append(System.lineSeparator());
+            }
+            outstring.append("Items Looted----------------------------------").append(System.lineSeparator());
             for (String itemLoot : itemLoots) {
                 outstring.append(itemLoot).append(System.lineSeparator());
             }
+            outstring.append("Items With Looters----------------------------").append(System.lineSeparator());
             for (String itemLoot : itemLootsWithLooter) {
                 outstring.append(itemLoot).append(System.lineSeparator());
             }
