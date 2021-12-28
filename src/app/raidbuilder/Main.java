@@ -89,13 +89,16 @@ public class Main {
                 int previousIndex = indexOfApostrophe;
                 for (Integer index : indices) {
                     char c = "'".toCharArray()[0];
-                    String stringToAdd = logString.get(i).substring(previousIndex + 1, index).trim();
+                    String stringToAdd = logString.get(i).substring(previousIndex + 1, index).toLowerCase().trim();
                     if (stringToAdd.charAt(0) == c) {
                         stringToAdd = stringToAdd.substring(1);
                     } else if (stringToAdd.charAt(stringToAdd.length() - 1) == c) {
                         stringToAdd = stringToAdd.substring(0, stringToAdd.length() - 1);
                     }
-                    itemLootsLinkedToeqChannel.add(stringToAdd);
+                    //if item is not blocked add it to the list
+                    if (!blockedItemsList.contains(stringToAdd.toLowerCase())) {
+                        itemLootsLinkedToeqChannel.add(stringToAdd);
+                    }
                     previousIndex = index;
                 }
             }
