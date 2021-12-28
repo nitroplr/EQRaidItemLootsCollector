@@ -36,3 +36,6 @@ peridot
 vann toes
 glyphed rune word
 disease ridden scalp
+bone carved shortbow
+bubonian bandage turban
+bubonian blood

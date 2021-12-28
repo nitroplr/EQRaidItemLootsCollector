@@ -2,13 +2,6 @@ band of flayed flesh
 beaten flesh bracer
 belt of dripping bile
 blazing eye skull mask
-bone carved shortbow
-bone carved shortbow
-bone carved shortbow
-bubonian bandage turban
-bubonian bandage turban
-bubonian blood
-bubonian blood
 cloak of ferocity
 cog encrusted epaulets
 cog encrusted epaulets
@@ -25,6 +18,7 @@ dirty runic papyrus
 dirty runic papyrus
 disease encapsulated shard
 disease encapsulated shard
+disease encapsulated shard
 diseased shell
 diseased skullcase
 double wrapped wide belt
@@ -38,6 +32,7 @@ gem-etched key
 gem-etched key
 glowing steel shim
 greatstaff of the four winds
+grimy fine vellum parchment
 grimy fine vellum parchment
 grimy papyrus
 grimy papyrus
@@ -53,6 +48,9 @@ hero parts
 hero parts
 hero parts
 hero parts
+hero parts
+hero parts
+innard strung bone bow
 innard strung bone bow
 innard strung bone bow
 innard strung bone bow
@@ -93,7 +91,9 @@ shroud of the stonecrafter
 skull charm
 skull charm
 smudged rough papyrus
+smudged rough papyrus
 soldiers notebook
+soldiers sword
 sooty fine runic papyrus
 sooty fine runic papyrus
 stained fine runic spell scroll
@@ -127,13 +127,6 @@ band of flayed flesh - Absinthe
 beaten flesh bracer - Bendo
 belt of dripping bile - Travlin
 blazing eye skull mask - Harey
-bone carved shortbow - Beastyboi
-bone carved shortbow - Harey
-bone carved shortbow - Kanos
-bubonian bandage turban - Laree
-bubonian bandage turban - Zeelot
-bubonian blood - Dmaul
-bubonian blood - Yoduh
 cloak of ferocity - Terrain
 cog encrusted epaulets - Ebah
 cog encrusted epaulets - Endacer
@@ -150,6 +143,7 @@ dirty runic papyrus - Lileni
 dirty runic papyrus - Travlin
 disease encapsulated shard - Eldoras
 disease encapsulated shard - Halagren
+disease encapsulated shard - Rainbelle
 diseased shell - Ivye
 diseased skullcase - Jerjamlor
 double wrapped wide belt - Allisa
@@ -163,6 +157,7 @@ gem-etched key - Halagren
 gem-etched key - Travlin
 glowing steel shim - Terrain
 greatstaff of the four winds - Terrain
+grimy fine vellum parchment - Grimer
 grimy fine vellum parchment - Travlin
 grimy papyrus - Grimer
 grimy papyrus - Ivye
@@ -176,11 +171,14 @@ hailstone - Kanos
 hero parts - Allisa
 hero parts - Dmaul
 hero parts - Ebah
+hero parts - Ivye
 hero parts - Lilsaddam
 hero parts - Rainbelle
+hero parts - Yoduh
 innard strung bone bow - Absinthe
 innard strung bone bow - Grimer
 innard strung bone bow - Issack
+innard strung bone bow - Lilsaddam
 innard strung bone bow - Travlin
 jord meat - Grimer
 kaniz hide - Absinthe
@@ -217,8 +215,10 @@ shroud of provocation - Terrain
 shroud of the stonecrafter - Terrain
 skull charm - Issack
 skull charm - Laree
+smudged rough papyrus - Absinthe
 smudged rough papyrus - Dmaul
 soldiers notebook - Yoduh
+soldiers sword - Beastyboi
 sooty fine runic papyrus - Eldoras
 sooty fine runic papyrus - Travlin
 stained fine runic spell scroll - Arsunick
