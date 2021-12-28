@@ -12,10 +12,14 @@ deathbone mask
 decayed chain links
 decayed chain links
 decaying fleshy orb
+decaying fleshy orb
 decaying skeletal shard
 decaying skeletal shard
 dirty runic papyrus
 dirty runic papyrus
+dirty runic papyrus
+dirty runic papyrus
+disease encapsulated shard
 disease encapsulated shard
 disease encapsulated shard
 disease encapsulated shard
@@ -50,11 +54,16 @@ hero parts
 hero parts
 hero parts
 hero parts
+hero parts
+hero parts
 innard strung bone bow
 innard strung bone bow
 innard strung bone bow
 innard strung bone bow
 innard strung bone bow
+innard strung bone bow
+innard strung bone bow
+jord meat
 jord meat
 kaniz hide
 leg of the spider guardian
@@ -66,6 +75,7 @@ mace of the fallen crusader
 pendant of thunder
 protective dust drape
 putrid belt of rotten hide
+putrid vial of fluid
 ragged and torn cloth
 ragged and torn cloth
 ragged and torn cloth
@@ -92,7 +102,9 @@ skull charm
 skull charm
 smudged rough papyrus
 smudged rough papyrus
+smudged rough papyrus
 soldiers notebook
+soldiers shield
 soldiers sword
 sooty fine runic papyrus
 sooty fine runic papyrus
@@ -104,11 +116,19 @@ stormriders signet
 stormriders signet
 sylvan chain helm ornament
 sylvan leather chest ornament
+sylvan plate feet ornament
+sylvan plate legs ornament
 symbol of the planemasters
 tattered leperoth clothing
 tattered leperoth clothing
 the putrid fish
 the putrid fish
+the putrid fish
+the putrid fish
+torch of lxvanvom
+two tined corpse pitchfork
+two tined corpse pitchfork
+two tined corpse pitchfork
 two tined corpse pitchfork
 two tined corpse pitchfork
 two tined corpse pitchfork
@@ -136,14 +156,18 @@ deathbone hand - Yoduh
 deathbone mask - Eldoras
 decayed chain links - Ardonius
 decayed chain links - Freelancerx
+decaying fleshy orb - Lilsaddam
 decaying fleshy orb - Rainbelle
 decaying skeletal shard - Beastyboi
 decaying skeletal shard - Yoduh
 dirty runic papyrus - Lileni
+dirty runic papyrus - Omakase
+dirty runic papyrus - Travlin
 dirty runic papyrus - Travlin
 disease encapsulated shard - Eldoras
 disease encapsulated shard - Halagren
 disease encapsulated shard - Rainbelle
+disease encapsulated shard - Wolfpack
 diseased shell - Ivye
 diseased skullcase - Jerjamlor
 double wrapped wide belt - Allisa
@@ -171,15 +195,20 @@ hailstone - Kanos
 hero parts - Allisa
 hero parts - Dmaul
 hero parts - Ebah
+hero parts - Gnofat
 hero parts - Ivye
+hero parts - Lilsaddam
 hero parts - Lilsaddam
 hero parts - Rainbelle
 hero parts - Yoduh
 innard strung bone bow - Absinthe
+innard strung bone bow - Greywalk
 innard strung bone bow - Grimer
 innard strung bone bow - Issack
+innard strung bone bow - Ivye
 innard strung bone bow - Lilsaddam
 innard strung bone bow - Travlin
+jord meat - Dmaul
 jord meat - Grimer
 kaniz hide - Absinthe
 leg of the spider guardian - Furlynx
@@ -191,6 +220,7 @@ mace of the fallen crusader - Kanos
 pendant of thunder - Rainbelle
 protective dust drape - Terrain
 putrid belt of rotten hide - Furlynx
+putrid vial of fluid - Furlynx
 ragged and torn cloth - Dmaul
 ragged and torn cloth - Halagren
 ragged and torn cloth - Kanos
@@ -217,7 +247,9 @@ skull charm - Issack
 skull charm - Laree
 smudged rough papyrus - Absinthe
 smudged rough papyrus - Dmaul
+smudged rough papyrus - Rainbelle
 soldiers notebook - Yoduh
+soldiers shield - Ivye
 soldiers sword - Beastyboi
 sooty fine runic papyrus - Eldoras
 sooty fine runic papyrus - Travlin
@@ -229,12 +261,20 @@ stormriders signet - Slog
 stormriders signet - Terrain
 sylvan chain helm ornament - Freelancerx
 sylvan leather chest ornament - Allisa
+sylvan plate feet ornament - Zeelot
+sylvan plate legs ornament - Kanos
 symbol of the planemasters - Terrain
 tattered leperoth clothing - Dmaul
 tattered leperoth clothing - Grimer
+the putrid fish - Grimer
 the putrid fish - Laree
+the putrid fish - Omakase
 the putrid fish - Rainbelle
+torch of lxvanvom - Terrain
 two tined corpse pitchfork - Dmaul
+two tined corpse pitchfork - Greywalk
+two tined corpse pitchfork - Grimer
+two tined corpse pitchfork - Ivye
 two tined corpse pitchfork - Laree
 two tined corpse pitchfork - Omakase
 two tined corpse pitchfork - Rainbelle
