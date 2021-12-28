@@ -1,78 +1,250 @@
+band of flayed flesh
+beaten flesh bracer
+belt of dripping bile
+blazing eye skull mask
+bone carved shortbow
+bone carved shortbow
+bone carved shortbow
+bubonian bandage turban
+bubonian bandage turban
+bubonian blood
+bubonian blood
 cloak of ferocity
-double wrapped wide belt
-double wrapped wide belt
 cog encrusted epaulets
 cog encrusted epaulets
-metallic plate
-page 5 of dark power
-destroyed power source
-moonstone crystal
-silicorrosive grease
-page 13 of dark power
-exquisite leather cap
-glyphed rune word
-fungus clump
-wand of the ice storm
-stormriders signet
-stormriders signet
-protective dust drape
-greatstaff of the four winds
-glowing steel shim
-unadorned symbol of torden
-unadorned symbol of torden
-pendant of thunder
-esoteric medallion
-diamond
-rock fern
-raw diamond
-gryme's crypt key
-glyphed rune word
-vann toes
-ring of torden
-ring of torden
-ragged and torn cloth
-lepertoloth bone segment
-ragged and torn cloth
+corruption powder
+corruption powder
+deathbone hand
+deathbone mask
+decayed chain links
+decayed chain links
+decaying fleshy orb
+decaying skeletal shard
+decaying skeletal shard
+dirty runic papyrus
+dirty runic papyrus
+disease encapsulated shard
+disease encapsulated shard
 diseased shell
+diseased skullcase
+double wrapped wide belt
+double wrapped wide belt
+edge of eternity
+esoteric medallion
+exquisite leather cap
+festering earlobe
+gem-etched key
+gem-etched key
+gem-etched key
+glowing steel shim
+greatstaff of the four winds
+grimy fine vellum parchment
+grimy papyrus
+grimy papyrus
+grubby fine papyrus
+grubby fine papyrus
+grubby fine parchment
+grubby fine parchment
+gryme's crypt key
+guard captains faceguard
+hailstone
+hero parts
+hero parts
+hero parts
+hero parts
+hero parts
+innard strung bone bow
+innard strung bone bow
+innard strung bone bow
+innard strung bone bow
+jord meat
+kaniz hide
+leg of the spider guardian
+lepertoloth bone segment
+lepertoloth bone segment
+lepertoloth bone segment
+lightning encased signet
+mace of the fallen crusader
+pendant of thunder
+protective dust drape
+putrid belt of rotten hide
 ragged and torn cloth
-diamond
-peridot
-Terrain - cloak of ferocity
-Greywalk - double wrapped wide belt
-Allisa - double wrapped wide belt
-Ebah - cog encrusted epaulets
-Endacer - cog encrusted epaulets
-Halagren - metallic plate
-Travlin - page 5 of dark power
-Yoduh - destroyed power source
-Ebah - moonstone crystal
-Dmaul - silicorrosive grease
-Omakase - page 13 of dark power
-Terrain - exquisite leather cap
-Issack - glyphed rune word
-Mandoh - fungus clump
-Terrain - wand of the ice storm
-Terrain - stormriders signet
-Slog - stormriders signet
-Terrain - protective dust drape
-Terrain - greatstaff of the four winds
-Terrain - glowing steel shim
-Beastyboi - unadorned symbol of torden
-Sharpy - unadorned symbol of torden
-Rainbelle - pendant of thunder
-Sloot - esoteric medallion
-Travlin - diamond
-Halagren - rock fern
-Zeelot - raw diamond
-Terrain - gryme's crypt key
-Hottubs - glyphed rune word
-Greywalk - vann toes
-Dmaul - ring of torden
-Kanos - ring of torden
-Dmaul - ragged and torn cloth
-Beastyboi - lepertoloth bone segment
-Kanos - ragged and torn cloth
-Ivye - diseased shell
-Halagren - ragged and torn cloth
-Wolfpack - diamond
-Loyd - peridot
+ragged and torn cloth
+ragged and torn cloth
+ring of bone
+ring of torden
+ring of torden
+ring of torden
+ring of torden
+ring of torden
+ring of torden
+rock fern
+rock fern
+rock fern
+rotting eye mask
+scale emblazoned ring
+scale emblazoned ring
+scroll of incantations
+sealed letter
+sepultura sandals
+shabby vellum parchment
+shroud of provocation
+shroud of the stonecrafter
+skull charm
+skull charm
+smudged rough papyrus
+soldiers notebook
+sooty fine runic papyrus
+sooty fine runic papyrus
+stained fine runic spell scroll
+stained fine runic spell scroll
+stained fine runic spell scroll
+stitched flesh necklace
+stormriders signet
+stormriders signet
+sylvan chain helm ornament
+sylvan leather chest ornament
+symbol of the planemasters
+tattered leperoth clothing
+tattered leperoth clothing
+the putrid fish
+the putrid fish
+two tined corpse pitchfork
+two tined corpse pitchfork
+two tined corpse pitchfork
+two tined corpse pitchfork
+two tined corpse pitchfork
+two tined corpse pitchfork
+unadorned symbol of torden
+unadorned symbol of torden
+used parchment
+used parchment
+used parchment
+used parchment
+wand of the ice storm
+worm eaten skull charm
+band of flayed flesh - Absinthe
+beaten flesh bracer - Bendo
+belt of dripping bile - Travlin
+blazing eye skull mask - Harey
+bone carved shortbow - Beastyboi
+bone carved shortbow - Harey
+bone carved shortbow - Kanos
+bubonian bandage turban - Laree
+bubonian bandage turban - Zeelot
+bubonian blood - Dmaul
+bubonian blood - Yoduh
+cloak of ferocity - Terrain
+cog encrusted epaulets - Ebah
+cog encrusted epaulets - Endacer
+corruption powder - Absinthe
+corruption powder - Issack
+deathbone hand - Yoduh
+deathbone mask - Eldoras
+decayed chain links - Ardonius
+decayed chain links - Freelancerx
+decaying fleshy orb - Rainbelle
+decaying skeletal shard - Beastyboi
+decaying skeletal shard - Yoduh
+dirty runic papyrus - Lileni
+dirty runic papyrus - Travlin
+disease encapsulated shard - Eldoras
+disease encapsulated shard - Halagren
+diseased shell - Ivye
+diseased skullcase - Jerjamlor
+double wrapped wide belt - Allisa
+double wrapped wide belt - Greywalk
+edge of eternity - Terrain
+esoteric medallion - Sloot
+exquisite leather cap - Terrain
+festering earlobe - Halagren
+gem-etched key - Arsunick
+gem-etched key - Halagren
+gem-etched key - Travlin
+glowing steel shim - Terrain
+greatstaff of the four winds - Terrain
+grimy fine vellum parchment - Travlin
+grimy papyrus - Grimer
+grimy papyrus - Ivye
+grubby fine papyrus - Deano
+grubby fine papyrus - Greywalk
+grubby fine parchment - Ebah
+grubby fine parchment - Ebah
+gryme's crypt key - Terrain
+guard captains faceguard - Issack
+hailstone - Kanos
+hero parts - Allisa
+hero parts - Dmaul
+hero parts - Ebah
+hero parts - Lilsaddam
+hero parts - Rainbelle
+innard strung bone bow - Absinthe
+innard strung bone bow - Grimer
+innard strung bone bow - Issack
+innard strung bone bow - Travlin
+jord meat - Grimer
+kaniz hide - Absinthe
+leg of the spider guardian - Furlynx
+lepertoloth bone segment - Allisa
+lepertoloth bone segment - Beastyboi
+lepertoloth bone segment - Eldoras
+lightning encased signet - Lilsaddam
+mace of the fallen crusader - Kanos
+pendant of thunder - Rainbelle
+protective dust drape - Terrain
+putrid belt of rotten hide - Furlynx
+ragged and torn cloth - Dmaul
+ragged and torn cloth - Halagren
+ragged and torn cloth - Kanos
+ring of bone - Kanos
+ring of torden - Dmaul
+ring of torden - Furlynx
+ring of torden - Grimer
+ring of torden - Issack
+ring of torden - Jerjamlor
+ring of torden - Kanos
+rock fern - Arsunick
+rock fern - Arsunick
+rock fern - Halagren
+rotting eye mask - Deano
+scale emblazoned ring - Bendo
+scale emblazoned ring - Zeelot
+scroll of incantations - Furlynx
+sealed letter - Absinthe
+sepultura sandals - Ivye
+shabby vellum parchment - Greywalk
+shroud of provocation - Terrain
+shroud of the stonecrafter - Terrain
+skull charm - Issack
+skull charm - Laree
+smudged rough papyrus - Dmaul
+soldiers notebook - Yoduh
+sooty fine runic papyrus - Eldoras
+sooty fine runic papyrus - Travlin
+stained fine runic spell scroll - Arsunick
+stained fine runic spell scroll - Dmaul
+stained fine runic spell scroll - Eviljello
+stitched flesh necklace - Bendo
+stormriders signet - Slog
+stormriders signet - Terrain
+sylvan chain helm ornament - Freelancerx
+sylvan leather chest ornament - Allisa
+symbol of the planemasters - Terrain
+tattered leperoth clothing - Dmaul
+tattered leperoth clothing - Grimer
+the putrid fish - Laree
+the putrid fish - Rainbelle
+two tined corpse pitchfork - Dmaul
+two tined corpse pitchfork - Laree
+two tined corpse pitchfork - Omakase
+two tined corpse pitchfork - Rainbelle
+two tined corpse pitchfork - Travlin
+two tined corpse pitchfork - Wolfpack
+unadorned symbol of torden - Beastyboi
+unadorned symbol of torden - Sharpy
+used parchment - Ardonius
+used parchment - Arsunick
+used parchment - Lilsaddam
+used parchment - Travlin
+wand of the ice storm - Terrain
+worm eaten skull charm - Rainbelle

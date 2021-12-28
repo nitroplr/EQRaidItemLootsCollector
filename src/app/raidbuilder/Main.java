@@ -66,7 +66,7 @@ public class Main {
                 String looter = logString.get(i).substring(indexOfDashes + 2, indexOfHasLooted - 1);
                 if (!blockedItemsList.contains(item)) {
                     itemLoots.add(item);
-                    itemLootsWithLooter.add(looter + " - " + item);
+                    itemLootsWithLooter.add(item + " - " + looter);
                 }
             }
         }
@@ -77,6 +77,8 @@ public class Main {
             FileWriter outfile = new FileWriter(outfilePath);
 
             StringBuilder outstring = new StringBuilder();
+            itemLoots.sort(String.CASE_INSENSITIVE_ORDER);
+            itemLootsWithLooter.sort(String.CASE_INSENSITIVE_ORDER);
             for (String itemLoot : itemLoots) {
                 outstring.append(itemLoot).append(System.lineSeparator());
             }
