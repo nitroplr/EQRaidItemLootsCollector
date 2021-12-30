@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         //CHANGE this filepath to your own character's filepath
         String eqLogFilePath = "C:\\Users\\Public\\Daybreak Game Company\\Installed Games\\EverQuest\\Logs\\eqlog_Blastoff_mischief.txt";
-        //CHANGE this string to the name of your guild's channel for creating new raids
+        //CHANGE this string to the name of your guild's channel for creating new raids and linking items
         //this is case sensitive to how the channel appears in eq; TestChannel is not the same as testchannel
         String eqChannel = "testchannel";
         //CHANGE this string to the command you will send to eqChannel to create a new raid
